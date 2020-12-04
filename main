@@ -41,7 +41,7 @@
 arr = [1, 2, 3, 4]
 n = len(arr)
  
-# Function call
+# Llamada a la funcion
 if findPartition(arr, n) == True:
   print(bol)
 else:
